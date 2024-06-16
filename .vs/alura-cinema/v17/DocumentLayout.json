@@ -3,24 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Roni Esteban\\OneDrive\\Escritorio\\Proyectos-React\\alura-cinema\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Roni Esteban\\OneDrive\\Escritorio\\Proyectos-React\\alura-cinema\\src\\components\\Banner\\Banner.module.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\Banner\\Banner.module.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Roni Esteban\\OneDrive\\Escritorio\\Proyectos-React\\alura-cinema\\src\\pages\\Inicio\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\Inicio\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Roni Esteban\\OneDrive\\Escritorio\\Proyectos-React\\alura-cinema\\src\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Roni Esteban\\OneDrive\\Escritorio\\Proyectos-React\\alura-cinema\\src\\pages\\Inicio\\index.modules.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\Inicio\\index.modules.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Roni Esteban\\OneDrive\\Escritorio\\Proyectos-React\\alura-cinema\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Roni Esteban\\OneDrive\\Escritorio\\Proyectos-React\\alura-cinema\\src\\components\\Card\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\Card\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Roni Esteban\\OneDrive\\Escritorio\\Proyectos-React\\alura-cinema\\src\\components\\Banner\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\Banner\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Roni Esteban\\OneDrive\\Escritorio\\Proyectos-React\\alura-cinema\\src\\components\\Card\\Card.module.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\Card\\Card.module.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,67 +42,54 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Banner.module.css",
-              "DocumentMoniker": "C:\\Users\\Roni Esteban\\OneDrive\\Escritorio\\Proyectos-React\\alura-cinema\\src\\components\\Banner\\Banner.module.css",
-              "RelativeDocumentMoniker": "src\\components\\Banner\\Banner.module.css",
-              "ToolTip": "C:\\Users\\Roni Esteban\\OneDrive\\Escritorio\\Proyectos-React\\alura-cinema\\src\\components\\Banner\\Banner.module.css",
-              "RelativeToolTip": "src\\components\\Banner\\Banner.module.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAATAAAA",
+              "DocumentIndex": 1,
+              "Title": "index.modules.css",
+              "DocumentMoniker": "C:\\Users\\Roni Esteban\\OneDrive\\Escritorio\\Proyectos-React\\alura-cinema\\src\\pages\\Inicio\\index.modules.css",
+              "RelativeDocumentMoniker": "src\\pages\\Inicio\\index.modules.css",
+              "ToolTip": "C:\\Users\\Roni Esteban\\OneDrive\\Escritorio\\Proyectos-React\\alura-cinema\\src\\pages\\Inicio\\index.modules.css",
+              "RelativeToolTip": "src\\pages\\Inicio\\index.modules.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-06-16T03:18:11.556Z",
+              "WhenOpened": "2024-06-16T20:30:57.337Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "index.js",
               "DocumentMoniker": "C:\\Users\\Roni Esteban\\OneDrive\\Escritorio\\Proyectos-React\\alura-cinema\\src\\pages\\Inicio\\index.js",
               "RelativeDocumentMoniker": "src\\pages\\Inicio\\index.js",
               "ToolTip": "C:\\Users\\Roni Esteban\\OneDrive\\Escritorio\\Proyectos-React\\alura-cinema\\src\\pages\\Inicio\\index.js",
               "RelativeToolTip": "src\\pages\\Inicio\\index.js",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAWAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-06-16T03:15:57.769Z",
+              "WhenOpened": "2024-06-16T20:09:11.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Card.module.css",
+              "DocumentMoniker": "C:\\Users\\Roni Esteban\\OneDrive\\Escritorio\\Proyectos-React\\alura-cinema\\src\\components\\Card\\Card.module.css",
+              "RelativeDocumentMoniker": "src\\components\\Card\\Card.module.css",
+              "ToolTip": "C:\\Users\\Roni Esteban\\OneDrive\\Escritorio\\Proyectos-React\\alura-cinema\\src\\components\\Card\\Card.module.css",
+              "RelativeToolTip": "src\\components\\Card\\Card.module.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-16T19:59:03.731Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "index.js",
-              "DocumentMoniker": "C:\\Users\\Roni Esteban\\OneDrive\\Escritorio\\Proyectos-React\\alura-cinema\\src\\index.js",
-              "RelativeDocumentMoniker": "src\\index.js",
-              "ToolTip": "C:\\Users\\Roni Esteban\\OneDrive\\Escritorio\\Proyectos-React\\alura-cinema\\src\\index.js",
-              "RelativeToolTip": "src\\index.js",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentMoniker": "C:\\Users\\Roni Esteban\\OneDrive\\Escritorio\\Proyectos-React\\alura-cinema\\src\\components\\Card\\index.js",
+              "RelativeDocumentMoniker": "src\\components\\Card\\index.js",
+              "ToolTip": "C:\\Users\\Roni Esteban\\OneDrive\\Escritorio\\Proyectos-React\\alura-cinema\\src\\components\\Card\\index.js",
+              "RelativeToolTip": "src\\components\\Card\\index.js",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAcAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-06-16T03:15:22.661Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "index.css",
-              "DocumentMoniker": "C:\\Users\\Roni Esteban\\OneDrive\\Escritorio\\Proyectos-React\\alura-cinema\\src\\index.css",
-              "RelativeDocumentMoniker": "src\\index.css",
-              "ToolTip": "C:\\Users\\Roni Esteban\\OneDrive\\Escritorio\\Proyectos-React\\alura-cinema\\src\\index.css",
-              "RelativeToolTip": "src\\index.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-06-16T03:15:18.409Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "index.js",
-              "DocumentMoniker": "C:\\Users\\Roni Esteban\\OneDrive\\Escritorio\\Proyectos-React\\alura-cinema\\src\\components\\Banner\\index.js",
-              "RelativeDocumentMoniker": "src\\components\\Banner\\index.js",
-              "ToolTip": "C:\\Users\\Roni Esteban\\OneDrive\\Escritorio\\Proyectos-React\\alura-cinema\\src\\components\\Banner\\index.js",
-              "RelativeToolTip": "src\\components\\Banner\\index.js",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-06-16T03:08:17.038Z",
+              "WhenOpened": "2024-06-16T19:58:42.58Z",
               "EditorCaption": ""
             }
           ]
