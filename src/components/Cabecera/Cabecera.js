@@ -4,8 +4,8 @@ import logo from "./logo-alura.png"
 import CabeceraLink from "../CabeceraLink/CabeceraLink"
 
 function Cabecera(){
-    return(
-        <header className={styles.cabecera}>
+    return (
+         <header className={styles.cabecera}>
             <Link to="/">
                 <section className={styles.logoContainer}>
                     <img src={logo} alt="Logo Alura"/> <span>Cinema</span>
