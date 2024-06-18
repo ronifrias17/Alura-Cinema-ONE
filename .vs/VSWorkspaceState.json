@@ -4,11 +4,8 @@
     "\\public",
     "\\public\\img",
     "\\src",
-    "\\src\\components",
-    "\\src\\components\\Banner",
-    "\\src\\components\\Card",
-    "\\src\\components\\Titulo",
     "\\src\\pages",
+    "\\src\\pages\\Favoritos",
     "\\src\\pages\\Inicio"
   ],
   "PreviewInSolutionExplorer": false
