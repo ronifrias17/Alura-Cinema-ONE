@@ -4,11 +4,22 @@ import Titulo from "components/Titulo";
 import { useParams } from "react-router-dom";
 import videos from "data/db.json";
 import NotFound from "pages/NotFound";
+import { useEffect, useState } from "react";
 
 export default function Player() {
+
+    const [video, setVideo] = useState([]);
+
+
     const parametros = useParams();
-    const video = videos.find(video => video.id === Number(parametros.id));
-    console.log(video);
+
+    useEffect(() => {
+        fetch(`https://api-proyectos-alura-one.vercel.app/videos-alura-cinema?id=${parametros.id}`)
+            .then(response => response.json())
+            .then(data => {
+                setVideo(...data)
+            })
+    }, [])
 
     if (!video) return <NotFound />
 
