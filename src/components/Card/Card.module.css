@@ -5,6 +5,10 @@
     background-color: var(--gris);
 }
 
+.titulo {
+    color: var(--negro);
+}
+
 .capa {
     width: 100%;
 }
